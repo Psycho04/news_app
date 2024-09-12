@@ -38,7 +38,6 @@ class _HomeState extends State<Home> {
       },
       child: Scaffold(
         appBar: AppBar(
-          leading: const Icon(Icons.menu, color: Colors.white,size: 30,),
           backgroundColor: const Color(0xff39A552),
           title: const Text(
             'News App',
